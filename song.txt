@@ -1,4 +1,0 @@
-Hello, it's me
-yes, it's you
-New lines number 3
-And new lines number 4!
